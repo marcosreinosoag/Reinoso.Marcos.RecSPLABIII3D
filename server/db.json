@@ -1,0 +1,52 @@
+{
+  "monstruos": [
+    {
+      "id": 1688747262144,
+      "nombre": "Pedro",
+      "tipo": "Esqueleto",
+      "alias": "Richard",
+      "defensa": "Estaca",
+      "miedo": 100
+    },
+    {
+      "id": 1688747286094,
+      "nombre": "Jose",
+      "tipo": "Zombie",
+      "alias": "Jp",
+      "defensa": "Pocion",
+      "miedo": 13
+    },
+    {
+      "id": 1688747310784,
+      "nombre": "Cristina",
+      "tipo": "Bruja",
+      "alias": "K",
+      "defensa": "Plata",
+      "miedo": 95
+    },
+    {
+      "id": 1701448269813,
+      "nombre": "Peter",
+      "tipo": "Vampiro",
+      "alias": "afq",
+      "defensa": "Crucifijo",
+      "miedo": 73
+    },
+    {
+      "id": 1701451951269,
+      "nombre": "Marcos",
+      "tipo": "Fantasma",
+      "alias": "DD",
+      "defensa": "Pocion",
+      "miedo": 50
+    },
+    {
+      "id": 1701457869915,
+      "nombre": "Roberto",
+      "tipo": "Fantasma",
+      "alias": "Casper",
+      "defensa": "Crucifijo",
+      "miedo": 74
+    }
+  ]
+}
